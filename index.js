@@ -1,9 +1,9 @@
 function shout(string) {
-  return string.toUpperCase()
+  return string.toUpperCase();
 }
 
 function whisper(string) {
-  return string.toLowerCase()
+  return string.toLowerCase();
 }
 
 function logShout(string) {
@@ -11,7 +11,7 @@ function logShout(string) {
 }
 
 function logWhisper(string) {
-  console.log(string.toLowerCase())
+  console.log(string.toLowerCase());
 }
 
 function sayHiToGrandma(string){
